@@ -1,0 +1,1 @@
+# aws-security-platform-requirements
